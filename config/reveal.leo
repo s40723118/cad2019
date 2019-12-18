@@ -21,6 +21,9 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20191218190918.1"><vh>每週心得</vh>
+<v t="leo.20191218191132.1"><vh>13週</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -323,5 +326,14 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191218190918.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20191218191132.1"># 心得
+
+使用Inventor比起solvespace的操作上還要好使用及本週有對於 nx12的文章翻譯，過程雖然有許多不會的單字，不過還是努力地翻出來的</t>
 </tnodes>
 </leo_file>
