@@ -326,11 +326,14 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191218190918.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
+<t tx="leo.20191218190918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/div&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
 </t>
 <t tx="leo.20191218191132.1"># 心得
 
