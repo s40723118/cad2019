@@ -335,7 +335,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191218191132.1"># 心得
+<t tx="leo.20191218191132.1"># week13心得
 
 使用Inventor比起solvespace的操作上還要好使用及本週有對於 nx12的文章翻譯，過程雖然有許多不會的單字，不過還是努力地翻出來的</t>
 </tnodes>
