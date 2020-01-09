@@ -21,6 +21,10 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200109152102.1"><vh>期末心得</vh>
+<v t="leo.20200109152102.2"><vh>期末</vh></v>
+<v t="leo.20200110014630.1"><vh>期末影片</vh></v>
+</v>
 <v t="leo.20191218190918.1"><vh>每週心得</vh>
 <v t="leo.20191218191132.1"><vh>13週</vh></v>
 </v>
@@ -338,5 +342,20 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191218191132.1"># week13心得
 
 使用Inventor比起solvespace的操作上還要好使用及本週有對於 nx12的文章翻譯，過程雖然有許多不會的單字，不過還是努力地翻出來的</t>
+<t tx="leo.20200109152102.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109152102.2"># 學習總心得
+
+這學期學到的東西，我已經盡力學習  solvespace  ffmpeg  webots ...等程式，即使有些程式不太懂也會有組長 光智 及  國龍  兩位的相助  幫助自己學習老師的東西 ；在組別裡看到組長一個人的努力，讓我覺得要把組長分配的工作做到好才不會對不起組長，最後感謝老師的教導及組長和國龍的教導，謝謝大家。</t>
+<t tx="leo.20200110014630.1"># 期末影片
+
+期末影片網址：https://youtu.be/lRMD9JFHS0c</t>
 </tnodes>
 </leo_file>
