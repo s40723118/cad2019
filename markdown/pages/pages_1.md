@@ -12,6 +12,7 @@ Title: About
 
 期中影片: <a href="https://www.youtube.com/watch?v=6TIzCX9NkCA">https://www.youtube.com/watch?v=6TIzCX9NkCA</a>
 
+期末影片: <a href="https://youtu.be/lRMD9JFHS0c">https://youtu.be/lRMD9JFHS0c</a>
 
 
 

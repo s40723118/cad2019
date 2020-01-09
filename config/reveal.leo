@@ -23,6 +23,8 @@
 </v>
 <v t="leo.20200109152102.1"><vh>期末心得</vh>
 <v t="leo.20200109152102.2"><vh>期末</vh></v>
+</v>
+<v t="leo.20200110020522.1"><vh>期末影片</vh>
 <v t="leo.20200110014630.1"><vh>期末影片</vh></v>
 </v>
 <v t="leo.20191218190918.1"><vh>每週心得</vh>
@@ -356,6 +358,15 @@ vertical: body pane on the botton</t>
 這學期學到的東西，我已經盡力學習  solvespace  ffmpeg  webots ...等程式，即使有些程式不太懂也會有組長 光智 及  國龍  兩位的相助  幫助自己學習老師的東西 ；在組別裡看到組長一個人的努力，讓我覺得要把組長分配的工作做到好才不會對不起組長，最後感謝老師的教導及組長和國龍的教導，謝謝大家。</t>
 <t tx="leo.20200110014630.1"># 期末影片
 
-期末影片網址：https://youtu.be/lRMD9JFHS0c</t>
+[期末影片網址](https://youtu.be/lRMD9JFHS0c)</t>
+<t tx="leo.20200110020522.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
 </tnodes>
 </leo_file>
