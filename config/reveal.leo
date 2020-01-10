@@ -365,7 +365,8 @@ ffmpeg：這對對於電腦沒內建剪輯影片軟體的人，相當好用
 webots：這東西我已經盡力了，只是不知道為什麼進去時沒顏色，也詢問過同學，一樣無解</t>
 <t tx="leo.20200110014630.1"># 期末影片
 
-[期末影片網址](https://youtu.be/lRMD9JFHS0c)</t>
+[期末影片網址](https://youtu.be/lRMD9JFHS0c)
+&lt;iframe src="https://youtu.be/lRMD9JFHS0c" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110020522.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
